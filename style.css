@@ -1,0 +1,85 @@
+.d {
+  color: #de2e54;
+}
+
+.z {
+  background-color: transparent;
+  color: #de2e54;
+  border: 2px solid #de2e54;
+}
+
+.w {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.bg-img {
+  background-image: url("./image\ 4.png");
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.a {
+  padding: 24px;
+}
+.wat {
+  color: white;
+  width: 500px;
+}
+
+.iss {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.sw {
+  font-size: 36px;
+}
+.de {
+  width: 189px;
+  height: 47px;
+  background-color: #de2e54;
+  color: white;
+  border-radius: 8px;
+}
+.ee {
+  display: flex;
+
+  padding: 66px 65px;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+}
+.rr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 864px;
+  gap: 64px;
+  margin: 0 auto;
+}
+.cd {
+  border-radius: 24px;
+}
+
+.wq {
+  display: flex;
+  gap: 64px;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  width: 864px;
+}
+.sadio {
+  background-color: #0eb4c1;
+  align-items: center;
+}
+.vvv {
+  text-align: center;
+  margin-bottom: 111px;
+}
